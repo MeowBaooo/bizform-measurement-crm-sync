@@ -1,0 +1,9 @@
+{
+  "name": "bizform-measurement-crm-sync",
+  "version": "1.1.0",
+  "description": "丈量預約單專用 - 建立新文件後自動同步進 CRM",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2" }
+}
