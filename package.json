@@ -1,9 +1,0 @@
-{
-  "name": "bizform-measurement-crm-sync",
-  "version": "1.0.0",
-  "description": "多張表單通用 - 建立新文件後自動同步進CRM（丈量預約單/追加工程單/進度回報單/驗收單/驗收缺失單/丈量結果單）",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" },
-  "dependencies": { "express": "^4.19.2" }
-}
